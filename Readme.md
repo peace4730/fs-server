@@ -5,7 +5,7 @@ fast-server 是一个轻量化的 Spring Boot Web 项目脚手架，旨在帮助
 
 ## ✨ 核心特性
 
-🚀 前沿技术栈：基于 Spring Boot 4 + Spring Security 6 + MySQL 8 + Redis 7
+🚀 前沿技术栈：基于 Spring Boot 4 + Spring Security 7 + MySQL 8 + Redis 7
 
 🔐 用户认证：完整的 JWT 认证体系，支持登录、登出、注册
 
